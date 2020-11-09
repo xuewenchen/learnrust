@@ -1,0 +1,9 @@
+[package]
+name = "rust-vec"
+version = "0.1.0"
+authors = ["chenxuewen01 <chenxuewen01@bilibili.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
