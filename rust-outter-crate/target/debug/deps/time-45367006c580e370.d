@@ -1,0 +1,11 @@
+/Users/chenxuewen/testrust/learnrust/rust-outter-crate/target/debug/deps/time-45367006c580e370.rmeta: /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/lib.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/display.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/duration.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/parse.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/sys.rs
+
+/Users/chenxuewen/testrust/learnrust/rust-outter-crate/target/debug/deps/libtime-45367006c580e370.rlib: /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/lib.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/display.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/duration.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/parse.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/sys.rs
+
+/Users/chenxuewen/testrust/learnrust/rust-outter-crate/target/debug/deps/time-45367006c580e370.d: /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/lib.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/display.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/duration.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/parse.rs /Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/sys.rs
+
+/Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/lib.rs:
+/Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/display.rs:
+/Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/duration.rs:
+/Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/parse.rs:
+/Users/chenxuewen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/time-0.1.44/src/sys.rs:
