@@ -1,0 +1,1 @@
+/Users/chenxuewen/testrust/learnrust/rust-create/target/debug/rust-create: /Users/chenxuewen/testrust/learnrust/rust-create/mylib/src/fatory.rs /Users/chenxuewen/testrust/learnrust/rust-create/mylib/src/lib.rs /Users/chenxuewen/testrust/learnrust/rust-create/src/main.rs
